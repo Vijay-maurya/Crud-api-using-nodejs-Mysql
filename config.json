@@ -2,8 +2,8 @@
     "Database":
     {
         "host": "localhost",
-        "user": "*****", 
-        "password": "*******",
-        "database": "********"
+        "user": "vijay",
+        "password": "Admin2022",
+        "database": "ProductsDB"
     }
 }
